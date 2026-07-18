@@ -3,6 +3,8 @@
 # Overview
 This project automates the process of responding to YouTube comments using OpenAI's GPT models. It combines Python, Selenium browser automation, and LLM-powered natural language generation to retrieve comments, generate context-aware responses, and publish replies across multiple YouTube channels.
 
+An autonomous AI agent that monitors YouTube comments, analyzes context using OpenAI's GPT models, and generates personalized, natural-language replies across multiple channels – all without human intervention.
+
 # Features
 Opens YouTube Studio using an authenticated Chrome profile.
 
