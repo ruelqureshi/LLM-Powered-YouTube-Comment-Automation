@@ -1,7 +1,7 @@
 # LLM-Powered-YouTube-Comment-Automation
 
 # Overview
-An autonomous AI agent that monitors YouTube comments, analyzes context using OpenAI's GPT models, and generates personalized, natural-language replies across multiple channels – all without human intervention.
+An autonomous AI agent that monitors YouTube comments, analyzes context using OpenAI's GPT models, and generates personalized replies across multiple channels – all without human intervention.
 
 It combines Python, Selenium browser automation, and LLM-powered natural language generation to retrieve comments, generate context-aware responses, and publish them automatically through YouTube Studio.
 
